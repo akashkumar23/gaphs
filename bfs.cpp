@@ -6,8 +6,8 @@ using namespace std;
 #define lld long long double
 #define fi first
 #define se second
-#define yes cout<<"YES"<<'\n'
-#define no cout<<"NO"<<'\n'
+#define yes cout<<"YES"<<endl
+#define no cout<<"NO"<<endl
 #define fl(i,a,b) for(ll i=a; i<b; i++)
 #define fle(a,b) for(ll i=a; i<=b; i++)
 #define pll pair<ll,ll>
